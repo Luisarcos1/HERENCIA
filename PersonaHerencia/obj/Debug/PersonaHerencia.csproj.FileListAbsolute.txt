@@ -1,0 +1,10 @@
+C:\Users\L13Yoga\source\repos\PersonaHerencia\bin\Debug\PersonaHerencia.exe.config
+C:\Users\L13Yoga\source\repos\PersonaHerencia\bin\Debug\PersonaHerencia.exe
+C:\Users\L13Yoga\source\repos\PersonaHerencia\bin\Debug\PersonaHerencia.pdb
+C:\Users\L13Yoga\source\repos\PersonaHerencia\obj\Debug\PersonaHerencia.csproj.AssemblyReference.cache
+C:\Users\L13Yoga\source\repos\PersonaHerencia\obj\Debug\PersonaHerencia.Properties.Resources.resources
+C:\Users\L13Yoga\source\repos\PersonaHerencia\obj\Debug\PersonaHerencia.csproj.GenerateResource.cache
+C:\Users\L13Yoga\source\repos\PersonaHerencia\obj\Debug\PersonaHerencia.csproj.CoreCompileInputs.cache
+C:\Users\L13Yoga\source\repos\PersonaHerencia\obj\Debug\PersonaHerencia.exe
+C:\Users\L13Yoga\source\repos\PersonaHerencia\obj\Debug\PersonaHerencia.pdb
+C:\Users\L13Yoga\source\repos\PersonaHerencia\obj\Debug\persona_herencia.Form1.resources
